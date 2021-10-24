@@ -11,7 +11,6 @@ namespace SendMailService.Controllers
     [ApiController]
     public class SendGmailController : ControllerBase
     {
-        [HttpPut]
 
     }
 }
